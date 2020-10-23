@@ -1,9 +1,6 @@
 # ERE Project 0 - "RISC Assembly Programming"
 ## Mason Faulkner
 
-### Collaboration Statement
-Worked with Shawn McKay on developing the PIC algorithm and to set the W registers.
-
 ### MIPS
 Compiled and Ran using QtSpim
 
